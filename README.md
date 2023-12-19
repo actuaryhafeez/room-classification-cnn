@@ -1,5 +1,3 @@
-# room-classification-cnn
-
 # Description
 "Image classification using Convolutional Neural Network (CNN) for identifying room types (bedroom, dining room, living room)."
 
