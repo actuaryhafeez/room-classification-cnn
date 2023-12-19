@@ -28,9 +28,6 @@ For more detailed instructions, refer to the sections below.
 - Matplotlib
 - ...
 
-## Examples
-
-Include some examples or screenshots if applicable.
 
 # About the Author
 
